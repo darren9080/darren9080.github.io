@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "DarrenStudio"
+title                    : "Darren Studio"
 title_separator          : "-"
 name                     : "Dongyup Darren Lee"
 description              : "Collection of my interests and progressions"
@@ -108,8 +108,8 @@ analytics:
 author:
   name             : "Darren"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "University of Illinois at Urbana Champaign/ To-be Consultant or Data Analyst or both"
+  location         : "Seoul"
   email            : darren9080@gmail.com
   links:
     - label: "Email"
@@ -131,7 +131,7 @@ author:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/darren-music-magic"
     - label : "Youtube"
-      icon: "fab fa-fw fa-Youtube"
+      icon: "fab fa-fw fa-youtube"
       url : https://www.youtube.com/channel/UCcpzfgVawM7QygXe6ToYG-g?view_as=subscriber
 
 # Site Footer
