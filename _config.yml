@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Darren Studio"
+title                    : "DRN_"
 title_separator          : "-"
 name                     : "Dongyup Darren Lee"
 description              : "Collection of my interests and progressions"
@@ -117,22 +117,22 @@ author:
       url: mailto:darren9080@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://darren9080.github.io/"
+#    - label: "Twitter"
+#      icon: "fab fa-fw fa-twitter-square"
+#      # url: "https://twitter.com/"
+#    - label: "Facebook"
+#      icon: "fab fa-fw fa-facebook-square"
+#      # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/darren-music-magic"
-    - label : "Youtube"
-      icon: "fab fa-fw fa-youtube"
-      url : https://www.youtube.com/channel/UCcpzfgVawM7QygXe6ToYG-g?view_as=subscriber
+#    - label: "Instagram"
+#      icon: "fab fa-fw fa-instagram"
+#      url: "https://instagram.com/drn_____"
+#    - label : "Youtube"
+#      icon: "fab fa-fw fa-youtube"
+#      url : https://www.youtube.com/channel/UCcpzfgVawM7QygXe6ToYG-g?view_as=subscriber
 
 # Site Footer
 footer:
@@ -142,22 +142,22 @@ footer:
       url: mailto:darren9080@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://darren9080.github.io/"
+#    - label: "Twitter"
+#      icon: "fab fa-fw fa-twitter-square"
+#      # url: "https://twitter.com/"
+#    - label: "Facebook"
+#      icon: "fab fa-fw fa-facebook-square"
+#      # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/darren-music-magic"
-    - label : "Youtube"
-      icon: "fab fa-fw fa-Youtube"
-      url : https://www.youtube.com/channel/UCcpzfgVawM7QygXe6ToYG-g?view_as=subscriber
+#    - label: "Instagram"
+#      icon: "fab fa-fw fa-instagram"
+#      url: "https://instagram.com/drn_____"
+#    - label : "Youtube"
+#      icon: "fab fa-fw fa-Youtube"
+#      url : https://www.youtube.com/channel/UCcpzfgVawM7QygXe6ToYG-g?view_as=subscriber
 
 
 # Reading Files
