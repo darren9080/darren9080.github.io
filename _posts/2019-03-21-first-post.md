@@ -6,6 +6,8 @@ categories: jekyll update
 
 Hello world to the world of blogs
 
+
+
 Objective of this blog is to document my thoughts and my career path
 as a person who just came out to the job market.
 Still getting used to markdown so the posting may be very very slow
