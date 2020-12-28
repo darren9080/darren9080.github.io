@@ -1,3 +1,10 @@
+---
+title: "미국기업 공시(1) Intro"
+date: 2020-12-28 14:43:11 -0400
+categories: finance market
+---
+
+
 Financial Industry 대한 지식과 경험이 전무한 내가 올 3월 유튜브를 보면서 Big3 Consultant, IB Banker 등을 거쳐,
 현재 뉴욕의 Hedge Fund 트레이더로 일하고 있는 "뉴욕주민"이라는 채널명으로 활동하시는 유튜버를 접하게 되었다. 
 12월에 감히 투자 입문자들의 미국 투자 바이블이라고 불릴 수 있을만한 책을 출간했다. 이전 영상컨텐츠에서 부터 항상 강조했던 것이
